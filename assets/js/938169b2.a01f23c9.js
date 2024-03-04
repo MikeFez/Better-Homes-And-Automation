@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbetter_homes_and_automations=self.webpackChunkbetter_homes_and_automations||[]).push([[5949],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

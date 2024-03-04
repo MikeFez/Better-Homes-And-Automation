@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbetter_homes_and_automations=self.webpackChunkbetter_homes_and_automations||[]).push([[8094],{5433:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/Better-Homes-And-Automations/blog/tags/docusaurus","allTagsPath":"/Better-Homes-And-Automations/blog/tags","count":4,"unlisted":false}')}}]);
