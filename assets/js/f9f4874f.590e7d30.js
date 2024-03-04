@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbetter_homes_and_automations=self.webpackChunkbetter_homes_and_automations||[]).push([[2147],{8397:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/Better-Homes-And-Automation/blog/tags/hello","allTagsPath":"/Better-Homes-And-Automation/blog/tags","count":2,"unlisted":false}')}}]);

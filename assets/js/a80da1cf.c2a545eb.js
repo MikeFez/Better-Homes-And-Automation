@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbetter_homes_and_automations=self.webpackChunkbetter_homes_and_automations||[]).push([[497],{1550:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/blog/tags/docusaurus","allTagsPath":"/blog/tags","count":4,"unlisted":false}')}}]);
